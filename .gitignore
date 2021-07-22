@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /venv-home/
 /.idea/
+.DS_Store
